@@ -4,11 +4,11 @@
       <v-col class="pa-5" cols="12" md="6">
         <base-bubble-1 style="transform: translate(5%, -5%)" />
 
-        <base-heading class="info--text mb-7">
+        <base-heading class="info--text mb-7 ml-8">
           Mi Carrera
         </base-heading>
 
-        <base-text class="mb-5">
+        <base-text class="mb-5 px-10">
           Tengo 30 años trabajando como psicóloga. Desde mis comienzos, mi
           interés estuvo en investigar y descubrir cómo los vínculos que vamos
           teniendo en la vida van modelando nuestra identidad. <br />
@@ -16,7 +16,7 @@
           los demás nos va delineando un camino en la vida en el que aprendemos
           y evolucionamos con otros significativos en nuestra historia.
         </base-text>
-        <base-text class="mb-5">
+        <base-text class="mb-5 px-10">
           Hace 25 años, luego de haber iniciado mi práctica en orientación
           familiar de niños pequeños y parejas en etapa de gestación, comencé mi
           especialidad en Terapia Familiar Sistemica en CEFYP, y allí estuve
@@ -27,7 +27,7 @@
           de estudio con colegas, fui docente de postgrado, participé en
           congresos y presentaciones, e incluso en el libro de ...
         </base-text>
-        <base-text class="mb-5">
+        <base-text class="mb-5 px-10">
           Desde mi base sistémica atendí muchas familias y parejas en el ámbito
           privado. También, comencé a trabajar en 1999 para Prosam/Osde, y
           realizo hasta la actualidad las entrevistas de orientación y
@@ -36,9 +36,11 @@
           dado conferencias, exposiciones en Jornadas institucionales y he
           coordinado paneles en presentaciones de profesionales.
         </base-text>
-        <base-subheading class="info--text mt-8"> Mi Formación</base-subheading>
+        <base-subheading class="info--text mt-8 ml-10">
+          Mi Formación</base-subheading
+        >
 
-        <base-text class="mb-5">
+        <base-text class="mb-5 px-10">
           Mi formación, por mi curiosidad y pasión en mi profesion, se fue
           ampliando a medida que mi práctica fue creciendo. Me formé y entrené
           en <strong>EMDR</strong> para acceder y trabajar en experiencias
@@ -50,7 +52,7 @@
           mis consultas, siguió siendo el eje ayudar a las personas a rediseñar
           y reconstruir su mundo emocional y vincular.
         </base-text>
-        <base-text class="mb-5">
+        <base-text class="mb-5 px-10">
           Seguí mi formación en terapia de pareja con J.Gottman, luego con
           Leslie Greenberg, hasta que conocí a Sue Johnson y la
           <strong>TERAPIA FOCALIZADA EN LAS EMOCIONES</strong> ( de origen
@@ -98,15 +100,15 @@ export default {
   data: () => ({
     skills: [
       {
-        name: "Web Design",
+        name: 'Web Design',
         value: 100,
       },
       {
-        name: "Web Development",
+        name: 'Web Development',
         value: 75,
       },
       {
-        name: "Web Support",
+        name: 'Web Support',
         value: 90,
       },
     ],

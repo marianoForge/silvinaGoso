@@ -20,11 +20,7 @@
 
     <social-media />
 
-    <base-btn
-      class="ml-3"
-      large
-      href="https://store.vuetifyjs.com/product/freelancer-theme-free?ref=freelancer"
-    >
+    <base-btn class="ml-3" large href="https://calendly.com/silvina-goso">
       Agendá una Sesión
 
       <v-icon right small>
@@ -35,9 +31,9 @@
 </template>
 
 <script>
-import SocialMedia from "@/components/SocialMedia";
+import SocialMedia from '@/components/SocialMedia';
 export default {
-  name: "CoreAppBar",
+  name: 'CoreAppBar',
 
   components: {
     SocialMedia,

@@ -6,8 +6,19 @@
 
         <base-heading> Terapia de Pareja </base-heading>
 
-        <base-text class="mb-5">
-          Bajando nuestras barreras, hablar desde el corazón.
+        <base-text class="mb-12 px-10">
+          Bajando nuestras barreras, hablar desde el corazón. <br /><br />
+          Vamos y venimos entre nuestro ser vulnerables y reaccionar
+          defensivamente cuando buscamos una y otra vez, conectar con la persona
+          que queremos.<br /><br />
+          Debajo de cada emoción reactiva y defensiva hay una emoción mucho más
+          profunda que cuesta decodificar. Si descubrimos la vulnerabilidad como
+          esa fuerza tan profunda que nos conecta con nosotros mismos, con los
+          demás, con nuestras necesidades y anhelos más profundos, vale el
+          esfuerzo de detenerse y darse tiempo a descubrirlas. <br /><br />Abrir
+          el corazón hacia nosotros o escuchando a los demás, abriendo esa
+          sensibilidad, es la clave de cómo acercarnos y cómo generar una
+          verdadera conexión amorosa.
         </base-text>
 
         <v-card color="secondary">
@@ -40,10 +51,10 @@
 
 <script>
 export default {
-  name: "RecentProjects",
+  name: 'RecentProjects',
 
   data: () => ({
-    projects: ["project1", "project2", "project3", "project4"],
+    projects: ['project1', 'project2', 'project3', 'project4'],
   }),
 };
 </script>
