@@ -19,13 +19,14 @@
         <base-text class="mb-5 px-10">
           Hace 25 años, luego de haber iniciado mi práctica en orientación
           familiar de niños pequeños y parejas en etapa de gestación, comencé mi
-          especialidad en Terapia Familiar Sistemica en CEFYP, y allí estuve
-          formándome y trabajando con familias y parejas por muchos años.<br />
-          Comprendo lo que significa en psicoterapia pensar el Ser en Relación y
-          entender el sufrimiento humano a partir de los conflictos y la falta
-          de claridad en su trama vincular. <br />Integré allí distintos grupos
-          de estudio con colegas, fui docente de postgrado, participé en
-          congresos y presentaciones, e incluso en el libro de ...
+          especialidad en Terapia Familiar Sistemica en CEFYP, y allí me formé y
+          trabaje con familias y parejas por muchos años. Comprendo lo que
+          significa en psicoterapia pensar el Ser en Relación y entender el
+          sufrimiento humano a partir de los conflictos y la falta de claridad
+          en su trama vincular. Integré allí distintos grupos de estudio con
+          colegas, fui docente de postgrado, participé en congresos y
+          presentaciones, e incluso en el libro de “Mas allá de pactos y
+          traiciones”
         </base-text>
         <base-text class="mb-5 px-10">
           Desde mi base sistémica atendí muchas familias y parejas en el ámbito
@@ -65,7 +66,7 @@
           que crea sentido, fortaleciendo el amor. Hemos ofrecido este taller en
           Buenos Aires, Brasil y Chile. He colaborado en St. Louis, Missouri en
           el mismo formato organizado por la Lic. Peñalba para la comunidad
-          Latina, con quien recientemente brindamos la experiencia on line.
+          Latina. Recientemente comenzamos a brindar la experiencia online.
         </base-text>
 
         <!-- <base-subheading class="info--text">

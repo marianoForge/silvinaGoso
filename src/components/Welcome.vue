@@ -17,15 +17,15 @@
           <v-col cols="10" md="6">
             <base-heading>Hola! Soy Silvina Goso</base-heading>
             <base-text>
-              Psicóloga clínica y terapeuta de parejas con formación en Terapia
-              Focalizada en las Emociones (TFE).<br /><br />
+              Psicóloga clínica (UBA) y terapeuta de parejas certificada
+              (ICEEFT) en Terapia Focalizada en las Emociones (TFE).<br /><br />
               Durante mis más de 25 años como terapeuta he ayudado a más de 500
               parejas a rediseñar sus vínculos para vivir una relación de pareja
               sana y segura. También he participado en la formación de más de
-              150 psicólogos en los últimos 5 años durante los talleres del
-              Externship y Core Skills de TFE en Argentina, Brasil y Estados
-              Unidos para poder ayudar a que más personas puedan construir sus
-              vínculos seguros.
+              150 psicólogos en los últimos 5 años durante los entrenamientos
+              del Externship y Core Skills y talleres de TFE en Argentina,
+              Brasil, España y Estados Unidos para poder ayudar a que más
+              personas puedan construir sus vínculos seguros. ¡CONVERSEMOS!
             </base-text>
             <base-btn class="mt-4">
               ¡Conversemos!

@@ -1,7 +1,7 @@
 <template>
   <section id="recent-projects" class="overflow-hidden">
     <v-row no-gutters>
-      <v-col class="primary text-center pa-5 white--text" cols="12" md="6">
+      <v-col class=" text-center pa-5 white--text bg-section" cols="12" md="6">
         <base-bubble-1 style="transform: rotate(180deg) translateX(25%)" />
 
         <base-heading> Terapia de Pareja </base-heading>
@@ -12,13 +12,13 @@
           defensivamente cuando buscamos una y otra vez, conectar con la persona
           que queremos.<br /><br />
           Debajo de cada emoción reactiva y defensiva hay una emoción mucho más
-          profunda que cuesta decodificar. Si descubrimos la vulnerabilidad como
-          esa fuerza tan profunda que nos conecta con nosotros mismos, con los
-          demás, con nuestras necesidades y anhelos más profundos, vale el
-          esfuerzo de detenerse y darse tiempo a descubrirlas. <br /><br />Abrir
-          el corazón hacia nosotros o escuchando a los demás, abriendo esa
-          sensibilidad, es la clave de cómo acercarnos y cómo generar una
-          verdadera conexión amorosa.
+          sensible que cuesta decodificar. Si descubrimos la vulnerabilidad como
+          esa fuerza poderosa que nos conecta con los demás, y con nuestras
+          necesidades y anhelos más profundos, vale el esfuerzo de darse tiempo
+          y detenerse a explorarnos.
+          <br /><br />Abrir el corazón hacia nosotros mismos o escuchar a los
+          demás en esa sensibilidad, nos da la clave de cómo acercarnos y cómo
+          generar una verdadera conexión amorosa.
         </base-text>
 
         <v-card color="secondary">
@@ -58,3 +58,9 @@ export default {
   }),
 };
 </script>
+
+<style scoped>
+.bg-section {
+  background-color: blue;
+}
+</style>

@@ -30,7 +30,7 @@
             </v-avatar>
 
             <base-text>
-              <div class="mb-2 font-bold" v-text="service.name" />
+              <div class="mb-2 font-bold" v-html="service.name" />
               <div v-html="service.blurb" />
             </base-text>
           </v-col>
@@ -47,27 +47,27 @@ export default {
   data: () => ({
     services: [
       {
-        name: 'Supervisión Profesional',
+        name: '<b>Supervisión Profesional</b>',
         icon: 'mdi-clipboard-text-outline',
         blurb:
           'Si sos terapeuta, puedo acompañarte en tu desarrollo profesional ',
       },
       {
-        name: 'Rediseñando tus vínculos',
+        name: '<b>Rediseñando tus vínculos</b>',
         icon: 'mdi-pencil-outline',
-        blurb: 'Sesiones para construir vínculos más seguros',
+        blurb: 'Sesiones para construir </br>vínculos más seguros',
       },
       {
-        name: 'Talleres TFE ',
+        name: '<b>Talleres TFE </b>',
         icon: 'mdi-settings-outline',
         blurb:
-          '<b>Para parejas</b>: Abrázame Fuerte Argentina. <b>Para profesionales</b>: Externship y CoreSkills 1-2',
+          '<b>Para parejas</b>: Abrázame Fuerte Argentina. <b>Entrenamientos Para profesionales</b>: Externship y CoreSkills 1-2',
       },
       {
-        name: 'Terapia de Pareja',
+        name: '<b>Terapia de Pareja</b>',
         icon: 'mdi-account',
         blurb:
-          'Abriendo paso a la vulnerabilidad como herramienta para la conexión amorosa',
+          'Abriendo paso a la vulnerabilidad </br>como herramienta para</br> la conexión amorosa',
       },
     ],
   }),
