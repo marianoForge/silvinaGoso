@@ -34,7 +34,7 @@ export default {
       {
         name: 'Email',
         icon: 'mdi-email',
-        link: 'mailto:silvinagoso@prosam.com',
+        link: 'mailto:hola@relacionesyemociones.com',
       },
       {
         name: 'Phone',

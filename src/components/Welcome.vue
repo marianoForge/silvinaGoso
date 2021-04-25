@@ -27,7 +27,7 @@
               Brasil, España y Estados Unidos para poder ayudar a que más
               personas puedan construir sus vínculos seguros. ¡CONVERSEMOS!
             </base-text>
-            <base-btn class="mt-4">
+            <base-btn class="mt-4" href="https://wa.link/3xp8lz">
               ¡Conversemos!
             </base-btn>
           </v-col>
